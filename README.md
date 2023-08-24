@@ -187,7 +187,7 @@ processes</span></p>
 
 <p class=MsoNormal style='margin-top:6.25pt;margin-right:0in;margin-bottom:
 6.25pt;margin-left:0in;line-height:200%;background:white'><img width=624
-height=296 src="MainworkProject_files/image001.jpg" align=left hspace=12
+height=296 src="https://flinks.com/wp-content/uploads/2020/10/Flinks-PayBright-case-study-buy-now-pay-later-flow-1024x487.png" align=left hspace=12
 alt="https://flinks.com/wp-content/uploads/2020/10/Flinks-PayBright-case-study-buy-now-pay-later-flow-1024x487.png"><em><span
 style='font-size:14.0pt;line-height:200%;font-family:"Calibri",sans-serif;
 color:black'>“Flinks is fully integrated within our simple three-step process
